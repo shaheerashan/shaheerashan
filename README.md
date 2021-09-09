@@ -11,6 +11,8 @@ Get to know me!
 - 🏀 Huge Basketball Fan, Go Lakers!!
 - 🎮 Competitive Video Gamer
 - 🐤 Animal Lover
+
+
 ![maxresdefault](https://user-images.githubusercontent.com/77646573/132616265-fc43e45f-be29-45f8-ad26-6be32c37f5d3.jpg)
 
 
