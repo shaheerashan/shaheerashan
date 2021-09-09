@@ -1,16 +1,13 @@
-### Hi there 👋
+# Shaheer Ashan 😄
 
-<!--
-**shaheerashan/shaheerashan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**RVCC Student** ✨  I’m currently learning about web development and design. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: shaheer.ashan@gmail.com
+
+🔭 I’m currently working on improving my Javascript.
+
+
+### Love video games!
+![200124_Vignette_Web_Detail](https://user-images.githubusercontent.com/77646573/132615335-3e7f13db-a91f-4a4b-8c92-52b734f3e7bb.jpg)
+
